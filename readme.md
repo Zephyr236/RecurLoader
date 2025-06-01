@@ -41,10 +41,6 @@ graph TD
 
 ### 安装依赖
 
-bash
-
-复制
-
 ```
 pip install tqdm
 ```
@@ -100,17 +96,12 @@ code = generate_obfuscated_code(
 
 
 # 效果演示
+![image](https://github.com/user-attachments/assets/61c5449d-dcd7-4ec4-927e-c894a39a8b3b)
+![image](https://github.com/user-attachments/assets/bf65d386-7312-45fd-9678-18ea052d034a)
+![image](https://github.com/user-attachments/assets/9f54d9bb-0668-4fa1-9bc5-a9d9aa6ce983)
 
-![28cfb6b48c2f30557b25327976270903](./assets/28cfb6b48c2f30557b25327976270903.png)
 
-![f10c9c354bf345442ff2ad86e6bf4a00](./assets/f10c9c354bf345442ff2ad86e6bf4a00.png)
-
-![c3173f39ce3db1a1e379f3e82882dd93](./assets/c3173f39ce3db1a1e379f3e82882dd93.png)
 
 ## 免责声明
 
 本项目仅用于教育目的和安全研究。使用者应对其行为负全部责任。作者不对任何滥用行为负责。
-
-## 许可证
-
-MIT License
