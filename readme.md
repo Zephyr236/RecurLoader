@@ -1,6 +1,6 @@
 # RecurLoader - 递归加载的Shellcode混淆加载器
 
-RecurLoader 是一个先进的Shellcode混淆加载器，通过多层递归调用、垃圾代码注入和复杂加密技术，有效规避反病毒软件的检测。该项目专为红队操作和渗透测试设计，提供高度可定制的混淆方案。
+RecurLoader 一个Shellcode混淆加载器，通过多层递归调用、垃圾代码注入和多层加密技术，规避反病毒软件的检测。通过调整参数快速生成shellcode loader
 
 ## 核心特性
 
