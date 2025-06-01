@@ -1,4 +1,4 @@
-# RecurLoader - 递归加载的Shellcode混淆加载器
+# RecurLoader
 
 RecurLoader 一个Shellcode混淆加载器，通过多层递归调用、垃圾代码注入和多层加密技术，规避反病毒软件的检测。通过调整参数快速生成shellcode loader
 
