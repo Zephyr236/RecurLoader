@@ -35,6 +35,8 @@ graph TD
 2. MinGW-w64 编译器
 3. 64位Windows操作系统
 
+或直接使用releases版
+
 ### 安装依赖
 
 ```
